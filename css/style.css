@@ -271,7 +271,7 @@ body{
 #muke{
 	position: absolute;
 	top: 250px;
-	left: 320px;
+	left: 50px;
 	z-index: 1;
     animation-name:move;
     animation-duration: 5s;
